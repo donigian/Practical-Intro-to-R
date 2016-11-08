@@ -39,3 +39,7 @@ Tutorial includes:
     - Dot products
     - Transpose
     - colnames, rownames
+- How to build a R package
+    - proper directory structure
+    - required package dependencies
+    - 8 step solution to build your own package
